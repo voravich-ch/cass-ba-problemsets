@@ -1,1 +1,1 @@
-Please see this [link](link) if you cannot view the notebook on Github.
+Please see this [link](https://nbviewer.jupyter.org/github/voravich-ch/cass_ba_problemsets/blob/master/network_analytics/problemset_1/voravich_ch_smm638_prob1.ipynb) if you cannot view the notebook on Github.
