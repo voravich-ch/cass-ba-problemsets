@@ -1,1 +1,1 @@
-https://nbviewer.jupyter.org/github/voravich-ch/cass_ba_problemsets/blob/master/data_visualization/problemset_1/voravich_ch_smm635_prob1.ipynb
+Please see this [link](https://nbviewer.jupyter.org/github/voravich-ch/cass_ba_problemsets/blob/master/data_visualization/problemset_1/voravich_ch_smm635_prob1.ipynb) if you cannot view the notebook on Github.
