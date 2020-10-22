@@ -1,1 +1,14 @@
-Please see this [link](https://nbviewer.jupyter.org/github/voravich-ch/cass_ba_problemsets/blob/master/network_analytics/problemset_1/voravich_ch_smm638_prob1.ipynb) if you cannot view the notebook on Github.
+# Network Analytics at Cass Business School 2020/21
+
+## **Directory Structure**
+
+```
+        network_analytics
+        ├── problemset_1
+        └── problemset_2
+```
+
+## File Description
+-   `problemset_1` -> Folder containing submission of problem set 1: October 14, 2020
+-   `problemset_2` -> Folder containing submission of problem set 1: October 21, 2020
+
