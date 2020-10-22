@@ -1,4 +1,4 @@
-# **Problem Set 1**
+# **Problem Set 2**
 
 **Task:** The problem set comprises one point only:
 
@@ -12,7 +12,7 @@
 ## **Directory Structure**
 
 ```
-        problemset_1
+        problemset_2
         ├── README.md
         └── voravich_ch_smm638_prob2.ipynb
 
