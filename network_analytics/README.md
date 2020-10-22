@@ -10,5 +10,5 @@
 
 ## File Description
 -   `problemset_1` -> Folder containing submission of problem set 1: October 14, 2020
--   `problemset_2` -> Folder containing submission of problem set 1: October 21, 2020
+-   `problemset_2` -> Folder containing submission of problem set 2: October 21, 2020
 
