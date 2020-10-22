@@ -1,6 +1,6 @@
 ## **Problem Set 2**
 
-**Context:** Consider the dataset used in Koop and *Tobias, which concerns the relationship between schooling and wage at the individuallevel.
+**Context:** Consider the dataset used in Koop and *Tobias, which concerns the relationship between schooling and wage at the individual level.
 
 **Task:** Create a Matplotlib figure that illustrates:  
 - the univariate distributions of the following variables: 'EDUC', 'LOGWAGE', 'ABILITY', 'MOTHERED', 'FATHERED', and 'SIBLINGS';
