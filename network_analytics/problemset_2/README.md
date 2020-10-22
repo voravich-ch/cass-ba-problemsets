@@ -1,4 +1,4 @@
-## **Problem Set 1**
+# **Problem Set 1**
 
 **Task:** The problem set comprises one point only:
 
