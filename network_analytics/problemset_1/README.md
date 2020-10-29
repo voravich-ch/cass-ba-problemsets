@@ -1,4 +1,4 @@
-## **Problem Set 1**
+# **Problem Set 1**
 
 **Task:** The problem set comprises three points (all have to be addressed): 
 1.   Use NumPy to simulate two, 1-mode, unweighted, and undirected networks
