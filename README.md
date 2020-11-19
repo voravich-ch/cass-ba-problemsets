@@ -7,10 +7,29 @@ This repository contains my solution to problem sets for Network Analytics and D
 ```
         cass_ba_problemsets
         ├── data_visualization
+        |       ├── problemset_1
+        |       ├── problemset_2
+        |       ├── problemset_3
+        |       └── problemset_4
         ├── network_analytics
+        |       ├── problemset_1
+        |       ├── problemset_2
+        |       ├── problemset_3
+        |       └── problemset_4
         └── README.md
 ```
 
 ## File Description
--   `data_visualization` -> Folder containing submission for Data Visualization course: October 14, 2020 - Present
--   `network_analytics` -> Folder containing submission for Network Analytics course: October 14, 2020 - Present
+
+### data_visualization
+-   `problemset_1` -> Folder containing submission of problem set 1: October 14, 2020
+-   `problemset_2` -> Folder containing submission of problem set 2: October 21, 2020
+
+### network_analytics
+-   `problemset_1` -> Folder containing submission of problem set 1: October 14, 2020
+-   `problemset_2` -> Folder containing submission of problem set 2: October 21, 2020
+
+
+
+
+
