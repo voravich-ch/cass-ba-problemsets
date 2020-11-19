@@ -33,18 +33,6 @@ k  | p(k)
 3  | 0.25
 4  | 0.2
 
-## **Directory Structure**
-
-
-```
-        problemset_1
-        ├── README.md
-        └── voravich_ch_smm638_prob1.ipynb
-
-```
-
-## File Description
--   `voravich_ch_smm638_prob1.ipynb` -> Jupyter notebook containing all the codes
 
 ## NBviewer
 Please see this [link](https://nbviewer.jupyter.org/github/voravich-ch/cass_ba_problemsets/blob/master/network_analytics/problemset_1/voravich_ch_smm638_prob1.ipynb) if you cannot view the notebook on Github.
